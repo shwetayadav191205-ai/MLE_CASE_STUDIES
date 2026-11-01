@@ -60,7 +60,7 @@ Explain the customer groups identified from your actual clustering results and s
 1. Download or clone this repository.
 2. Install the required libraries:
    `pip install pandas numpy matplotlib seaborn scikit-learn`
-3. Open `Customer_segmentation.ipynb` in Jupyter Notebook or Google Colab.
+3. Open `CASE_STUDY_4.ipynb` in Jupyter Notebook or Google Colab.
 4. Run all cells.
 
 ## 10. Conclusion
